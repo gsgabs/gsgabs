@@ -9,6 +9,4 @@ Here are some ideas to get you started:
 - 🔭 Atualmente trabalho como eletricista na prefeitura de Joanópolis
 - 🌱 Estou aprendendo programar em C e em Portugol
 
-<div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsgabs)](https://github.com/anuraghazra/github-readme-stats)
-</div>
