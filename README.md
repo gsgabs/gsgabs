@@ -8,3 +8,5 @@ Here are some ideas to get you started:
 
 - 🔭 Atualmente trabalho como eletricista na prefeitura de Joanópolis
 - 🌱 Estou aprendendo programar em C e em Portugol
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?gsgabs=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
