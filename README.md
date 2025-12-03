@@ -1,16 +1,14 @@
-### Olá 👋
+### Greetings👋
 
-Me chamo Gabriel, tenho 19 anos e estou em busca de aprendizado
+My name's Gabriel, I'm 22 years old.
 
 <!--
 **gsgabs/gsgabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-Atualmente eu:
 
-- 📚 Estou cursanso análise e desenvolvimento de sistemas no Instituto Federal
-- 🥏 Trabalho como eletricista na prefeitura de Joanõpolis
+I'm looking for work
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsgabs&show_icons=true&theme=dracula&count_private=true&hide=contribs&hide_title=true&card_width=900px)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gsgabs&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
