@@ -8,7 +8,7 @@ My name's Gabriel, I'm 22 years old.
 Here are some ideas to get you started:
 -->
 
-I'm looking for work
+Looking for opportunities
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/MhnnqHPY5d" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
